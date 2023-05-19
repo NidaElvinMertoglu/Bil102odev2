@@ -44,7 +44,7 @@ def main():
     while True:
         magaza_adi = input("Magaza adini giriniz: ")
         satici_adi = input("Satici adini giriniz: ")
-        satici_cinsi = input("Satici cinsi: ")
+        satici_cinsi = input("Satilan urunun ne oldugunu giriniz: ")
         satis_tarihi = input("Satis tarihi (gun.ay.yil): ")
         tutar = float(input("Satis tutari: "))
 
