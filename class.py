@@ -46,7 +46,7 @@ def main():
         satici_adi = input("Satici adini giriniz: ")
         satici_cinsi = input("Satilan urunun ne oldugunu giriniz: ")
         satis_tarihi = input("Satis tarihini (gun.ay.yil) olaraktan giriniz: ")
-        tutar = float(input("Satis tutari: "))
+        tutar = float(input("Satis tutarini giriniz: "))
 
 
         if magaza_adi not in magazalar:
